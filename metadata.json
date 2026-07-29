@@ -1,0 +1,6 @@
+{
+  "name": "시니어 케어 - 어르신 올인원 건강 케어 도우미",
+  "description": "어르신 신체/건강 정보를 반영한 올인원 케어 도우미 (어려운 문서/설명서 큰글씨 요약 & 음성 읽기, 처방전 알림 & 체크리스트, 건강 맞춤 식단, 음성 메모 & 일정)",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
